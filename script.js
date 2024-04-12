@@ -53,7 +53,7 @@ function addRandomFreelancer() {
   calculateAveragePrice();
 }
 
-// Addinga new random freelancer every 5 seconds
+// Adding a new random freelancer every 5 seconds
 setInterval(addRandomFreelancer, 5000);
 
 // Initial display
